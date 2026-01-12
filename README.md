@@ -78,5 +78,3 @@ This application is strictly a **demonstration prototype** and must not be used 
 
 🚀 **XYNAPSE** – Building intelligent digital experiences
 
-📸 *The repository screenshot above shows the complete file structure.*
-
